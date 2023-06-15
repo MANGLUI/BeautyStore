@@ -1,0 +1,47 @@
+body {
+            margin: 0;
+            padding: 0;
+            background:url(../image/background.jpg) no-repeat;
+            background-size:cover;
+        }
+.loginForm {
+            top: 50%;
+            left: 35%;
+            margin-top: -280px;
+            margin-right: -200px;
+            position: absolute;
+        }
+.divcontent{
+		       border:5px solid black;
+			   border-color:gray;
+			   border-style:groove;
+			   width:400px;
+			   height:350px;
+			   text-align:center;
+			   margin:50px auto;
+			   border-top-left-radius: 50px;
+               border-top-right-radius: 50px;
+               border-bottom-left-radius: 50px;
+               border-bottom-right-radius: 50px;
+			   background-color:oldlace;
+			   opacity: 0.6;
+		   
+		}
+		.divcontent h1{
+		    font-size:35px;
+		    margin:30px auto;
+			font-family:"华文楷体";
+		    color:tomato;
+		    
+		  }
+		  .divcontent label{
+		    font-family:"楷体";
+		    color:tomato;
+		    font-size:20px;
+		  }
+		  .divcontent .btn{
+		  
+		  font-size:18px;
+		  
+		  }
+		  

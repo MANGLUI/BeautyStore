@@ -1,0 +1,13 @@
+@CHARSET "UTF-8";
+body{
+	background:#F5F5DC;
+	text-align:center;
+}
+.container{
+	margin:50px auto;
+}
+.nav li{
+	font-size:20px;
+	font-family:"楷体";
+	color:gray;
+}
